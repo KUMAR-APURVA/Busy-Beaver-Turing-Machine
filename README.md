@@ -10,8 +10,10 @@ Two functions are defined for a Busy Beaver Problem :-
      
      2. S(n,m): the largest number of steps taken by an n-state m-symbols machine before halting.
 
-In our code we have considered 2 symbols (0 and 1) and 5 different states (1, 2, 3, 4, 5) and
-We are computing  Σ(n,m) and S(n,m) for the best turing machines for each state.
+The code is for 2 symbols (0 and 1) and 5 different states (1, 2, 3, 4, 5) and
+computes  Σ(n,m) and S(n,m) for the best turing machines for each states.
+
+We have taken help from this website https://catonmat.net/busy-beaver
 
 We have also simulated 2 state 2 symbols and 3 state 2 symbols Busy Beaver Turing Machine on online simulator https://turingmachine.io/ 
 

@@ -16,9 +16,9 @@ table:
   H:
   ```
   
-  ### For 3 states 2 symbols Busy Beaver Turing Machine 
-  ```
-  # A 3-state 2-symbol busy beaver
+### For 3 states 2 symbols Busy Beaver Turing Machine 
+ ```
+# A 3-state 2-symbol busy beaver
 blank: '0'
 start state: q1
 table:

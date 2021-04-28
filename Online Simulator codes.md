@@ -22,14 +22,14 @@ table:
 blank: '0'
 start state: q1
 table:
-  q1:
-    0: {write: 1, R: q2}
-    1: {R : H}
-  q2:
-    0: {write: 0, R: q3}
-    1: {write: 1, R: q2}
-  q3:
-    0: {write: 1, L: q3}
-    1: {write: 1, L: q1}
-  H:
+   q1:
+     0: {write: 1, R: q2}
+     1: {R : H}
+   q2:
+     0: {write: 0, R: q3}
+     1: {write: 1, R: q2}
+   q3:
+     0: {write: 1, L: q3}
+     1: {write: 1, L: q1}
+   H:
   ```

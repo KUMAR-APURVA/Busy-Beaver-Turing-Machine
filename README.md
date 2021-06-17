@@ -18,5 +18,4 @@ We have taken help from this website https://catonmat.net/busy-beaver
 We have also simulated 2 state 2 symbols and 3 state 2 symbols Busy Beaver Turing Machine on online simulator https://turingmachine.io/ 
 
 
-### This is the state diagram for a 3 state 2 symbols Busy Beaver Turing Machine
-![image](https://user-images.githubusercontent.com/66004696/122466222-a7cb4680-cfd6-11eb-8890-2ea3df4ae6a2.png)
+
